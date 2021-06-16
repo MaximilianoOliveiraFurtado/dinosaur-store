@@ -2,10 +2,6 @@
 	path = discount-calculator
 	url = https://github.com/MaximilianoOliveiraFurtado/discount-calculator.git
 	branch = main
-[submodule "products-list"]
-	path = products-list
-	url = https://github.com/MaximilianoOliveiraFurtado/products-list.git
-	branch = main
 [submodule "product"]
 	path = product
 	url = https://github.com/MaximilianoOliveiraFurtado/product.git
