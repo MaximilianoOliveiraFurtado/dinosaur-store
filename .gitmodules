@@ -6,3 +6,6 @@
 	path = products-list
 	url = https://github.com/MaximilianoOliveiraFurtado/products-list.git
 	branch = main
+[submodule "product"]
+	path = product
+	url = https://github.com/MaximilianoOliveiraFurtado/product.git
